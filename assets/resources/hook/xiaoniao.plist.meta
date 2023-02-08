@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "68269": {
+      "importer": "sprite-frame",
+      "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf@68269",
+      "displayName": "",
+      "id": "68269",
+      "name": "xiaoniao/2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 339,
+        "width": 156,
+        "height": 228,
+        "rawWidth": 156,
+        "rawHeight": 228,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a",
+        "atlasUuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b541f": {
+      "importer": "sprite-frame",
+      "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf@b541f",
+      "displayName": "",
+      "id": "b541f",
+      "name": "xiaoniao/0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 391,
+        "height": 339,
+        "rawWidth": 391,
+        "rawHeight": 339,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a",
+        "atlasUuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ce03": {
+      "importer": "sprite-frame",
+      "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf@3ce03",
+      "displayName": "",
+      "id": "3ce03",
+      "name": "xiaoniao/1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 391,
+        "trimY": 0,
+        "width": 168,
+        "height": 263,
+        "rawWidth": 168,
+        "rawHeight": 263,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a",
+        "atlasUuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cc1f9": {
+      "importer": "sprite-frame",
+      "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf@cc1f9",
+      "displayName": "",
+      "id": "cc1f9",
+      "name": "xiaoniao/4",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 391,
+        "trimY": 263,
+        "width": 168,
+        "height": 263,
+        "rawWidth": 168,
+        "rawHeight": 263,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a",
+        "atlasUuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c98da": {
+      "importer": "sprite-frame",
+      "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf@c98da",
+      "displayName": "",
+      "id": "c98da",
+      "name": "xiaoniao/3",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 156,
+        "trimY": 339,
+        "width": 156,
+        "height": 228,
+        "rawWidth": 156,
+        "rawHeight": 228,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a",
+        "atlasUuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "xiaoniao.png",
+    "format": 2,
+    "uuid": "9337768c-4c45-457d-92f4-4e6ed1b893bf",
+    "textureUuid": "3f969067-ec0b-4507-a67d-714bc5619b0b@6c48a"
+  }
+}

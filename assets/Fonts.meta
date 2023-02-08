@@ -1,0 +1,19 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "2af8f1d5-9d90-4c8a-94d9-ac63e2735a7a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {
+      "wechatgame": "subpackage",
+      "bytedance-mini-game": "subpackage"
+    },
+    "isRemoteBundle": {
+      "wechatgame": false,
+      "bytedance-mini-game": false
+    },
+    "isBundle": true
+  }
+}
